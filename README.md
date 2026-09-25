@@ -1,1 +1,2 @@
 # HackerRank-Bitwise-Operators
+Today, I practiced the HackerRank Bitwise Operators problem in C. I learned how to use AND (&), OR (|), and XOR (^) operators and how to find the maximum valid result using loops and conditions. This helped me improve my understanding of bitwise operations and problem-solving logic.
